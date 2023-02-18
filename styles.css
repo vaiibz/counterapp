@@ -1,0 +1,90 @@
+.body {
+}
+.container {
+  position: relative;
+  margin-top: 0px;
+  background-color: #161212;
+  height: 800px;
+  width: 1500px;
+  font-family: inter;
+}
+.header {
+  position: absolute;
+  width: 400px;
+  height: 100px;
+  left: 520px;
+  top: 70px;
+  background: #5048ad;
+  box-shadow: inset 0px 0px 37px 23px #5a4bff;
+  border-radius: 18px;
+  font-family: inter;
+}
+.headText {
+  margin-left: 110px;
+  margin-top: 30px;
+  font-family: Inter;
+  color: azure;
+}
+.counter {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 560px;
+  top: 263px;
+  border-radius: 100%;
+  background: #161212;
+  border: 12px solid #5a4bff;
+  font-family: Inter;
+  font-size: 130px;
+  color: azure;
+  display: flex;
+}
+.display {
+  position: relative;
+  margin-top: 72.5px;
+  margin-left: 110px;
+}
+.Btn {
+  position: absolute;
+  display: flex;
+  width: 189px;
+  height: 67px;
+  left: 520px;
+  top: 650px;
+  border: #161212, solid, 2px;
+}
+
+.Btn1 button {
+  background: #22bd69;
+  box-shadow: inset 0px 0px 16px 8px rgba(28, 37, 32, 0.71);
+  border-radius: 18px;
+  position: absolute;
+  width: 189px;
+  height: 67px;
+  left: 0px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 29.3431px;
+  line-height: 36px;
+  color: azure;
+}
+
+.Btn2 button {
+  position: absolute;
+  width: 189px;
+  height: 67px;
+  left: 210px;
+  color: azure;
+  background: #ef473a;
+  box-shadow: inset 0px 0px 16px 8px rgba(28, 37, 32, 0.71);
+  border-radius: 18px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 29.3431px;
+  line-height: 36px;
+}
+.p {
+  font-size: 40px;
+}
